@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584693031810",
+    "project_id": "color-saver-1b5d3",
+    "storage_bucket": "color-saver-1b5d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584693031810:android:326cd46514f250f05f659b",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvCaY2pmXHkaWRGL_0bDl7QQeQPZrdmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
